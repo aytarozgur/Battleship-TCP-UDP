@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Battleship-TCP-UDP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Battleship_TCP_UDP_jar</output-path>
+    <root id="archive" name="Battleship-TCP-UDP.jar">
+      <element id="module-output" name="Battleship-TCP-UDP" />
+    </root>
+  </artifact>
+</component>
